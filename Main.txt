@@ -1,2 +1,2 @@
 first string
-This change in the branch of the task 1.
+This change in the branch of the task 1.second string (master)
